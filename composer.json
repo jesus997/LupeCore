@@ -1,0 +1,15 @@
+{
+    "name": "jess/messenger",
+    "description": "A simple chat in php made in php",
+    "type": "project",
+    "require": {
+        "phroute/phroute": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesus Magallon",
+            "email": "magallonj23@gmail.com"
+        }
+    ]
+}
